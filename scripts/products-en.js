@@ -13,7 +13,7 @@ function generateRecord() {
 var count = 10000;
 var timestamp = chance.timestamp();
 
-var stream = fs.createWriteStream('products-' + timestamp +'.txt');
+var stream = fs.createWriteStream('products-en-' + timestamp +'.txt');
 stream.once('open', function(fd) {
   for (var i = 0; i < 100; i++) {
     var record = ';';

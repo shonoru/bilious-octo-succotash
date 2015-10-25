@@ -1,0 +1,16 @@
+{
+  "categories":
+  [
+    { "id": 110, "name": "Analog Power Boards" },
+    { "id": 120, "name": "Communication Evaluation Boards" },
+    { "id": 130, "name": "Dev Tools - Hardware" },
+    { "id": 140, "name": "Dev Tools - Software" },
+    { "id": 150, "name": "Interface" },
+    { "id": 161, "name": "8 Bit Eval Board" },
+    { "id": 162, "name": "16 Bit Eval Board" },
+    { "id": 163, "name": "32 Bit Eval Board" },
+    { "id": 164, "name": "Multimedia" },
+    { "id": 165, "name": "PSOC" },
+    { "id": 170, "name": "RF Wireless Board" }
+  ]
+}
