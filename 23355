@@ -1,0 +1,15 @@
+;634;Tripod legs, 1868;0;300;
+;634;Mounting, 1867;1;300;
+;634;Colour of product, 1766;2;300;
+;634;Tripod head, 1869;3;300;
+;634;Special features, 86;5;300;;true
+;634;Material, 898;6;300;
+;634;Source data-sheet, 6617;7;300;
+
+#
+;1095;;Weight & dimensions;
+
+#
+;1095;Dimensions W x D x H, 49;0;24;
+;1095;Weight, 94;1;38;number
+;1095;Height  max , 6486;2;24;number
