@@ -5,7 +5,7 @@ var Chance = require('chance'),
     chance = new Chance();
 
 function generateRecord() {
-  var str = ';';
+  var str = ';;';
   str += chance.sentence({words: 3}) + ';' + chance.sentence() + ';' + chance.paragraph();
   return str;
 }
